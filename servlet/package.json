@@ -1,0 +1,21 @@
+{
+  "name": "tscripts",
+  "version": "1.0.0",
+  "description": "Web interface for Twitter auth.",
+  "main": "src/callback.js",
+  "private": true,
+  "repository": "",
+  "scripts": {
+    "start": "node src/callback.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "redis": "^3.0.2",
+    "express": "^4.17.1",
+    "config": "^3.3.3"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+/cfg/
+/.idea/
+/servlet/config/
+/servlet/node_modules/
+/servlet/servlet.iml
+/target/
+/chromedriver
+/Twitter Scripts.iml
